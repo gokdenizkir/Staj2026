@@ -19,6 +19,7 @@ Gün 4 - 11/03/2026
 Pascal case Snake case anlatımı
 HTML ile temel bilgiye devam
 Gün
+
 5 - 12/03/2026
 HTML ile temel bigl videosu izlendi
 GitHub temel bilgi videosuna giriş yapıldı
